@@ -3,6 +3,5 @@ const Hello = {
     sayMsg: function() {
       return this.message
     }
-  }
-  
+    }
   module.exports = Hello
