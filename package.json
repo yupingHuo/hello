@@ -1,0 +1,14 @@
+{
+  "name": "yuping-hello",
+  "version": "0.0.1",
+  "description": "hello-everyone",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "yuping",
+  "license": "ISC"
+}
