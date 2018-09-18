@@ -9,6 +9,10 @@
   "keywords": [
     "hello"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yupingHuo/hello.git"
+    },
   "author": "yuping",
   "license": "ISC"
 }
